@@ -5,6 +5,7 @@ This is the code for my final project website, it uses Html, CSS, Bootstrap, Jav
 It was built for a writer to share his new books and other news.
 
 Here you can see some of the mockups:
+
 ![01](https://github.com/Clau-dia-T/sebastiaoalves/assets/145710104/e234547d-30e3-4f0b-8b08-d2f8d384c38f)
 ![02](https://github.com/Clau-dia-T/sebastiaoalves/assets/145710104/7f29b274-d27f-4c96-b3c5-aaa8a01bf6b0)
 ![03](https://github.com/Clau-dia-T/sebastiaoalves/assets/145710104/fca9f177-1be5-4efa-9590-8b2f0a8a06fe)
