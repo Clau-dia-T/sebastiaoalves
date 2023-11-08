@@ -5,11 +5,13 @@ This is the code for my final project website, it uses Html, CSS, Bootstrap, Jav
 It was built for a writer to share his new books and other news.
 
 Here you can see some of the mockups:
-![01](https://github.com/Clau-dia-T/demo_sebastiaoalves/assets/145710104/b2da8cb9-c1cc-4064-a7a8-c4f768f5f00d)
-![02](https://github.com/Clau-dia-T/demo_sebastiaoalves/assets/145710104/c1fab403-ab48-4830-9aa2-5341c300612f)
-![03](https://github.com/Clau-dia-T/demo_sebastiaoalves/assets/145710104/6a67ca4a-ab2a-4be7-befd-a0f20b1bb23c)
-![04](https://github.com/Clau-dia-T/demo_sebastiaoalves/assets/145710104/fe8870be-1ace-4f60-b3c6-dbfdbff22406)
-![05](https://github.com/Clau-dia-T/demo_sebastiaoalves/assets/145710104/876e9ce6-e698-44d8-8037-abd1d260cba7)
+![01](https://github.com/Clau-dia-T/sebastiaoalves/assets/145710104/e234547d-30e3-4f0b-8b08-d2f8d384c38f)
+![02](https://github.com/Clau-dia-T/sebastiaoalves/assets/145710104/7f29b274-d27f-4c96-b3c5-aaa8a01bf6b0)
+![03](https://github.com/Clau-dia-T/sebastiaoalves/assets/145710104/fca9f177-1be5-4efa-9590-8b2f0a8a06fe)
+![04](https://github.com/Clau-dia-T/sebastiaoalves/assets/145710104/0b49c816-9006-485f-babb-58e9d0e8b810)
 
-Here you can see a backoffice page:
-![06](https://github.com/Clau-dia-T/demo_sebastiaoalves/assets/145710104/c6d897a9-9319-4511-8655-abbdff82f443)
+Mobile:
+![05](https://github.com/Clau-dia-T/sebastiaoalves/assets/145710104/72d91e33-2917-44bf-ad70-bf5a0d7ea27e)
+
+Backoffice page:
+![06](https://github.com/Clau-dia-T/sebastiaoalves/assets/145710104/676cb983-ecbe-400f-a90e-2ecc58609b13)
