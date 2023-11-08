@@ -1,0 +1,351 @@
+@media all and (max-width: 1140px){
+    /*Alterações fontes*/
+    .fontebannercabecalhotitulo{
+        font-size: 23px;
+    }
+    /*Header*/
+    .titulobanner{
+        margin-bottom: -20px;
+    }
+
+    .titulobanner, .titulobannernovidade{
+        line-height: 30px;
+    }
+
+    .carousel-caption{
+        position: absolute;
+        bottom: -50px;
+    }
+
+    .carousel-indicators{
+        left: 15%;
+        bottom: 0px;
+    }
+
+    /*Main*/
+    .caixahome, .caixatitulo{
+        margin: 0px;
+        width: 100%;
+    }
+
+    #sabermais02{
+        margin-left: 80%;
+        margin-bottom: 10px;
+    }
+
+    /*Pagina Livro*/
+    .caixalivro .imglivro{
+        margin-right: 50px;
+    }
+}
+
+@media all and (max-width: 991px){
+    /*Header*/
+    .carousel-caption{
+        position: absolute;
+        bottom: -130px;
+    }
+
+    .novidade{
+        margin: 0px;
+    }
+    /*Main*/
+    #imgbemvindo{
+        margin-left: 0px;
+        margin-bottom: 68px;
+    }
+    #titulohome, #textohome{
+        margin: 0px 35px;
+    }
+    #textocaixat{
+        margin-bottom: 25px;
+    }
+    .linhasabermais{
+        text-align: center;
+    }
+    #sabermais02{
+        margin: 40px 0px;
+    }
+
+    /*Autor*/
+    .textoconteudo{
+        margin-top: 0px;
+        padding: 0px 30px;
+        margin-bottom: 20px;
+    }
+
+    .imgconteudo{
+        margin: 45px 0px;
+        margin-bottom: 30px;
+        padding: 0px 25px !important;
+    }
+
+    .linksconteudo{
+        padding: 0px !important;
+        text-align: center;
+    }
+ 
+    .vermais{
+        width: 90px;
+        height: 26px;
+        margin-bottom: 20px;
+        cursor: pointer;
+    }
+
+    .botaovoltar{
+        margin: 0px;
+        margin-bottom: 45px;
+    }
+
+    /*Pagina Livro*/
+    .caixalivro{
+        margin: 0px;
+    }
+
+    .caixalivro .imglivro{
+        margin: 0px;
+        margin-bottom: 40px;
+        padding: 0px 5px;
+    }
+
+    .caixalivro p{
+        margin-bottom: 60px;
+        padding: 0px 35px;
+    }
+
+    /*Imprensa*/
+    .topoimp{
+        padding: 0px 35px;
+    }
+}
+
+@media all and (max-width: 767px){
+     /*Alterações fontes*/
+     .fontebannercabecalhotitulo{
+        font-size: 40px;
+    }
+
+    /*Header*/
+    .titulobanner{
+        line-height: 43.5px;
+    }
+
+    .carousel-caption{
+        margin: -30px;
+        bottom: 250px;
+    }
+
+    .carousel-indicators{
+        left: 10%;
+        bottom: 250px;
+    }
+
+    .novidade{
+        margin-bottom: 17px;
+    }
+
+    /*Main*/
+    .caixaul{
+        margin: 95px 35px;
+        margin-bottom: 30px;
+    }
+    .tituloul{
+        font-size: 23px;
+    }
+
+    /*Footer*/
+    .separadorfundo{
+        margin-left: 35px;
+        margin-right: 35px;
+    }
+
+    .caixacontactos{
+        text-align: center;
+        margin: 53px 0px !important;
+    }
+
+    .conteudocontactos{
+        margin: 0px 70px;
+    }
+    
+    .caixacontactos h6{
+        text-align: center;
+    }
+
+    .esquerda{
+        margin-top: 80px;
+        margin-bottom: 20px;
+    }
+
+    .caixacopyright p{
+        margin: 0px 60px;
+    }
+
+    /*Imprensa*/
+    .separador03{
+        margin-top: 25px;
+    }
+
+    .caixaimp01{
+        margin-bottom: 45px;
+    }
+
+    .caixaimp02{
+        margin-top: 65px;
+    }
+
+    .imp p{
+        margin-bottom: 0px;
+    }
+
+    .paginacao{
+        margin-top: -15px;
+        margin-bottom: 70px;
+    }
+
+    /*Contactos*/
+    .esquerda{
+        margin-top: 10px;
+    }
+
+}
+
+@media all and (max-width: 600px){
+    /*Alterações fontes*/
+    .fontetitulo{
+        font-size: 25px;
+    }
+
+    /*Header*/
+    .carousel-item > img{
+        min-height: 760px;
+    }
+
+    #tituloheader{
+        position: absolute;
+        top: 69px;
+        left: -100px;
+    }
+
+    .navbar-toggler{
+        position: absolute;
+        top: -40px;
+        right: 34px;
+    }
+
+    .navbar .show{
+        background-color: white;
+    }
+
+    .navbar{
+        margin-top: -16px;
+    }
+
+    .navbar-nav{
+        padding: 40px;
+        padding-bottom: 50px;
+        gap: 15px;
+    }
+
+    .dropdown-menu{
+        width: fit-content;
+    }
+
+    .separador{
+        margin: 0px 35px;
+    }
+
+    .carousel-caption{
+        bottom: 150px;
+    }
+
+    .titulobanner{
+        line-height: 30px;
+        font-size: 30px;
+    }
+
+    .carousel-indicators{
+        bottom: 200px;
+    }
+
+    /*Autor*/
+    .imgconteudo img{
+        max-width: 100%;
+    }
+
+    #titulocaixat, #textocaixat{
+        margin-left: 40px;
+    }
+}
+
+@media all and (max-width: 500px){
+    /*Alterações fontes*/
+    .fontetitulo{
+        font-size: 20px;
+    }
+
+    /*Header*/
+    #tituloheader{
+        left: -43px;
+    }
+
+    .carousel-caption{
+        margin: -15px;
+        bottom: -66px;
+    }
+
+    .novidade{
+        margin-bottom: 25px;
+    }
+
+    .titulobanner{
+        margin-bottom: 20px;
+    }
+
+    .textobanner, .textobannernovidade{
+        margin-bottom: 205px;
+    }    
+
+    .carousel-indicators{
+        bottom: 10px;
+    }
+
+    /*Main*/
+    #imgbemvindo{
+        width: 286px;
+    }
+
+    #titulohome{
+        font-size: 22px;
+        margin-bottom: 20px;
+    }
+    
+    #sabermais02{
+        margin-bottom: 60px;
+    }
+
+    .card{
+        height: 700px;
+    }
+
+    /*Contactos*/
+    .caixacont{
+        margin-top: 32px !important;
+    }
+
+    .cont p{
+        padding: 0px 60px;
+    }
+    
+    .cont{
+        margin-bottom: 30px;
+    }
+
+    .separadorcont01{
+        margin-top: 10px;
+    }
+
+    .conteudocontactos{
+        margin: 0px;
+    }
+}

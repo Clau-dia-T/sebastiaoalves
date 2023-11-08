@@ -1,0 +1,143 @@
+.fontet1{
+    font-family: 'IBM Plex Sans';
+    font-weight: Bold;
+    font-size: 25px;
+    text-transform: uppercase;
+    color: rgb(77, 77, 77);
+}
+
+.fontet1modificada{
+    font-family: 'IBM Plex Sans';
+    font-weight: 500;
+    font-size: 25px;
+    text-transform: uppercase;
+    color: rgb(77, 77, 77);
+}
+
+.fontep{
+    font-family: 'IBM Plex Sans';
+    font-weight: 300;
+    font-size: 13px;
+    color: rgb(77, 77, 77); 
+}
+
+.fontetitulo{
+    font-family: 'IBM Plex Sans';
+    font-weight: bold;
+    font-size: 35px;
+    text-transform: uppercase;
+    color: rgb(77, 77, 77);
+}
+
+.fontemenus{
+    font-family: 'Lato';
+    font-weight: 900;
+    font-size: 18px;
+    text-transform: uppercase;
+    color: rgb(77, 77, 77);
+}
+
+.fontesubmenus{
+    font-family: 'IBM Plex Sans';
+    font-weight: 500;
+    font-size: 13px;
+    color: rgb(77, 77, 77);
+}
+
+.fonteactivodouradob1{
+    color: rgb(177, 126, 59);
+}
+
+.fontemenubarrarodape{
+    font-family: 'Lato';
+    font-weight: 900;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: rgb(77, 77, 77);
+}
+
+.fonteactivodouradob4{
+    color: rgb(180, 125, 51);
+}
+
+.fontecategoria{
+    font-family: 'Lato';
+    font-weight: 900;
+    font-size: 12.5px;
+    text-align: left;
+    text-transform: uppercase;
+    color: rgb(180, 125, 51);
+}
+
+.fontebannercabecalhotitulo{
+    font-family: 'IBM Plex Sans';
+    font-weight: 300;
+    font-size: 40px;
+    text-align: left;
+    text-transform: uppercase;
+    color: rgb(77, 77, 77); 
+}
+
+.fontebannercabecalhotexto{
+    font-family: 'IBM Plex Sans';
+    font-weight: 300;
+    font-size: 13px;
+    text-align: left;
+    color: rgb(77, 77, 77); 
+}
+
+.fontedestaqueshometitulo{
+    font-family: 'IBM Plex Sans';
+    font-weight: 500;
+    font-size: 23px;
+    text-transform: uppercase;
+    color: rgb(77, 77, 77);
+}
+
+.fontecontactos{
+    font-family: 'IBM Plex Sans';
+    font-weight: Bold;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: rgb(77, 77, 77);
+}
+
+.fontecontactostitulo{
+    font-family: 'IBM Plex Sans';
+    font-weight: 500;
+    font-size: 15px;
+    text-align: left;
+    text-transform: uppercase;
+    color: rgb(177, 126, 59);
+}
+
+.fontecontactosconteudo{
+    font-family: 'IBM Plex Sans';
+    font-weight: 300;
+    font-size: 15px;
+    color: rgb(77, 77, 77);
+}
+
+.fonteimprensa{
+    font-family: 'IBM Plex Sans';
+    font-weight: 500;
+    font-size: 13px;
+    text-transform: uppercase;
+    color: rgb(77, 77, 77);
+}
+
+.fontedatapublicacao{
+    font-family: 'IBM Plex Sans';
+    font-weight: 500;
+    font-size: 13px;
+    text-transform: uppercase;
+    color: rgb(77, 77, 77);
+}
+
+.fontepaginacao{
+    font-family: 'IBM Plex Sans';
+    font-weight: 500;
+    font-size: 23px;
+    text-transform: uppercase;
+    color: rgb(77, 77, 77);
+}

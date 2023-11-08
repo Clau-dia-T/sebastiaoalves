@@ -1,0 +1,544 @@
+body{
+    max-width: 1280px;
+    padding: 0px;
+    margin: auto;
+}
+
+/*Header*/
+header{
+    position: relative;
+    max-width: 1280px;
+}
+
+.limitador{
+    max-width: 1280px;
+    margin: auto;
+}
+.carousel-item > img{
+    max-width: 1280px;
+    padding: 0px;
+}
+
+.carousel-indicators{
+    gap: 14px;
+    width: fit-content;
+    position: absolute;
+    left: 15%;
+    bottom: 101px;
+}
+
+.carousel-indicators button{
+    height: 20px !important;
+    width: 20px !important;
+    background-image: url("http://localhost/sebastiao_alves/public/Imagens/bolabanner1.svg");
+    border-radius: 50% !important;
+}
+
+.carousel-indicators .active{
+    background-image: url("http://localhost/sebastiao_alves/public/Imagens/bolabanner2.svg");
+}
+
+.novidade{
+    margin-bottom: 17px;
+    letter-spacing: 1px;
+}
+
+.titulobanner{
+    line-height: 43.5px;
+}
+
+.textobanner, .textobannernovidade{
+    line-height: 17px;
+    margin-bottom: 207px;
+}
+
+.textobannernovidade{
+    margin-top: 18px;
+}
+
+.textobanner{
+    margin-top: 24px;
+}
+
+.sabermais01{
+    width: 120px;
+    height: 30px;
+    position: absolute;
+    bottom: 180px;
+}
+
+#tituloheader{
+    position: absolute;
+    top: 49px;
+    width: inherit;
+}
+
+#separadortopo{
+    position: absolute;
+    top: 112px;
+    width: inherit;
+}
+
+.separador{
+    margin: 0px 55px;
+    color: rgb(0, 0, 0);
+    border-color: rgb(0, 0, 0);
+    background-color: rgb(0, 0, 0);
+}
+
+#rownav{
+    position: absolute;
+    top: 128px;
+    width: inherit;
+}
+
+.navbar-nav{
+    gap: 32px;
+}
+
+.navbar-nav .active{
+    color: rgb(180, 125, 51) !important;
+}
+
+.navbar-toggler{
+    border: none;
+    border-radius: 0px;
+    background-image: url("http://localhost/sebastiao_alves/public/Imagens/menu.svg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 35px;
+    height: 25px;
+}
+
+.dropdown-menu{
+    position: absolute;
+    left: -30px !important;
+    margin-top: 12px !important; 
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+    padding-top: 29px !important; 
+    padding-bottom: 30px !important; 
+    border-radius: 0px; 
+    border: none;
+}
+
+.dropdown-item{
+    margin-bottom: 13px; 
+}
+
+#ultimo{
+    margin-bottom: 0px;
+}
+
+.dropdown-item:hover{
+    background-color: rgba(255, 255, 255);
+    color: rgb(180, 125, 51) !important;
+}
+
+.sombra{
+    box-shadow: -3px 5px 10px rgba(0, 0, 0, 10%);
+}
+
+/*Main*/
+.caixahome{
+    max-width: 1190px;
+    width: fit-content;
+    min-height: 538px;
+    background-color: white;
+    margin-left: 92px;
+    margin-top: -45px;
+    z-index: 20;
+}
+
+#imgbemvindo{
+    width: 312px;
+    height: 396px;
+    margin-top: 68px; 
+    margin-left: 68px;
+    margin-right: 0px;
+}
+
+.sombra02{
+    box-shadow: 7px 7px 8px rgba(0, 0, 0, 10%);
+}
+
+#titulohome, #textohome{
+    margin-left: 230px;
+}
+
+#titulohome{
+    margin-top: 82px;
+    letter-spacing: 0.5px;
+}
+
+#textohome{
+    margin-top: 32px;
+    margin-right: 100px;
+}
+
+#sabermais02{
+    margin-top: 20px;
+    margin-left: 745px;
+    width: 120px;
+    height: 30px;
+}
+
+.caixaul{
+    margin: auto;
+    margin-left: 92px;
+    margin-top: 87px;
+    margin-right: 55px;
+}
+
+.tituloul{
+    letter-spacing: 0.5px;
+}
+
+.textocaixaul{
+    margin-top: 23px;
+}
+
+.cards{
+    margin: auto;
+    margin-top: 55px;
+    max-width: 1280px;
+    gap: 50.5px;
+    justify-content: center;
+    margin-bottom: 105px;
+}
+
+.card{
+    border: none;
+    border-radius: 0px;
+    height: 698px;
+    width: 325px !important;
+    padding: 0px;
+}
+
+.card-img-top{
+    height: 428px;
+    width: 100%;
+    border-radius: 0%;
+}
+
+.card-title, .card-text, .categoriadestaque{
+    margin-left: 9px;
+}
+
+.card-title{
+    margin-top: 11px;
+    line-height: 23px;
+}
+
+.categoriadestaque{
+    margin-top: 15px;
+    letter-spacing: 1px;
+}
+
+.card-text{
+    margin-top: 10px;
+    line-height: 17px;
+}
+
+.sabermais03{
+    width: 120px;
+    height: 30px;
+    position: absolute;
+    left: 181px;
+    bottom: 27px;
+}
+
+.sombra03{
+    box-shadow: 4px 4px 8px 4px rgba(0, 0, 0, 10%);
+}
+
+/*Footer*/
+#sf1{
+    margin-top: -16px;
+}
+
+#sf2{
+    margin-top: 6px;
+    margin-bottom: -16px;
+}
+
+.separadorfundo{
+    margin-left: 55px;
+    margin-right: 55px;
+}
+
+.separador02{
+    height: 2px;
+    color: rgb(0, 0, 0);
+    border-color: rgb(0, 0, 0);
+    background-color: rgb(0, 0, 0);
+}
+
+#rownavbottom{
+    margin-left: 43px;
+    margin-right: 43px;
+    margin-top: 8px;
+}
+
+footer .navbar-nav{
+    margin-left: 20px;
+    gap: 40px;
+    margin-bottom: 6px;
+}
+
+.caixacontactos{
+    margin-left: 164px;
+    margin-right: 138px;
+    margin-top: 66px;
+    margin-bottom: 73px;
+}
+
+.caixacontactos h5{
+    letter-spacing: 0px;
+    word-spacing: -2px;
+}
+
+.titulocontactos{
+    margin-top: 13px;
+}
+
+.conteudocontactos{
+    margin-top: -3px;
+}
+
+.caixaimagens{
+    margin-top: 31px;
+}
+
+.caixaimagens > a{
+    margin: 10px;
+}
+.imgredes{
+    width: 37px;
+    height: 37px;
+}
+
+.esquerda{
+    text-align: center;
+}
+
+.caixaimgfundo{
+    margin-top: 36px;
+}
+
+.imgfundo01{
+    width: 77px;
+    height: 31px;
+    margin-right: 38px;
+}
+
+.imgfundo02{
+    width: 125px;
+    height: 29px;
+}
+
+.caixacopyright{
+    margin-top: 53px;
+    text-align: center;
+}
+
+.caixacopyright p{
+    margin: 0px;
+    line-height: 16px;
+}
+
+/*Página Autor*/
+.caixatitulo{
+    max-width: 1190px;
+    width: auto;
+    min-height: 130px;
+    background-color: white;
+    margin-left: 92px;
+    margin-top: -45px;
+    z-index: 20;
+}
+
+#titulocaixat, #textocaixat{
+    margin-left: 102px;
+}
+
+#titulocaixat{
+    margin-top: 49px;
+}
+
+#textocaixat{
+    margin-top: 5px;
+    letter-spacing: 0.5px;
+}
+
+.imgconteudo{
+    text-align: center;
+    margin-top: 55px !important;
+    padding-left: 10px !important;
+}
+
+.textoconteudo{
+    margin-top: 35px;
+    padding: 0px 195px;
+    margin-bottom: 61px;
+}
+
+.linksconteudo{
+    padding: 0px 195px !important;
+    text-align: left;
+}
+
+.botaovoltar{
+    width: 132px;
+    height: 30px;
+    margin-bottom: 73px;
+}
+
+/*Páginas Livros*/
+
+.arealivro{
+    margin-top: 65px !important;
+}
+
+.caixalivro{
+    margin-left: 192px;
+    margin-right: 192px;
+}
+
+.caixalivro .imglivro{
+    width: 305px;
+    height: 471px;
+    margin-right: 107px;
+    margin-left: 3px;
+    margin-bottom: 38px;
+}
+
+.caixalivro .botaovoltar02{
+    width: 132px;
+    height: 30px;
+    margin-right: 2px;
+    margin-bottom: 71px;
+}
+
+/* Imprensa */
+.imp{
+    width: 100%;
+}
+
+.caixaimp01, .caixaimp02{
+    text-align: center;
+}
+
+.caixaimp01{
+    margin-top: 63px;
+    margin-bottom: 60px;
+}
+
+.topoimp{
+    padding-left: 194px;
+    padding-right: 194px;
+}
+
+.tituloimp{
+    text-align: left;
+}
+
+.separador03{
+    color: rgb(169, 115, 57);
+    border-color: rgb(169, 115, 57);
+    background-color: rgb(169, 115, 57);
+    margin-top: 8px;
+}
+
+.dataimp{
+    text-align: right;
+}
+
+.caixaimp01 .dataimp{
+    margin-bottom: 35px;
+}
+
+.caixaimp02 .dataimp{
+    margin-bottom: 40px;
+}
+
+.sombraimprensa{
+    box-shadow: 0px 8px 8px -8px rgba(0, 0, 0, 20%);
+}
+
+.imp p{
+    margin-top: 50px;
+    line-height: 17px;
+    text-align: left;
+}
+
+.imp .impimg{
+    max-width: 100%;
+}
+
+.caixaimp02{
+    margin-top: 78px;
+}
+
+.imp button{
+    background-color: rgba(255, 255, 255, 0%);
+    border: none;
+}
+
+form{
+    gap: 15px;
+}
+
+.paginacao{
+    margin-bottom: 116px;
+}
+
+.paginacao button{
+    padding: 0px;
+    margin: 0px;
+    height: 30px;
+}
+
+.setas{
+    width: 17px;
+    height: 30px;
+    margin-top: 81px;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.imp .numpag{
+    margin-top: 79px;
+}
+
+.imp .numpag:hover{
+    color: rgb(177, 126, 59);
+}
+
+.imp .active{
+    color: rgb(177, 126, 59);
+}
+
+/* Contactos */
+.caixacont{
+    margin-top: 64px !important;
+    margin-bottom: 63px !important;
+    text-align: center;
+}
+
+.caixacont h6{
+    text-align: center;
+}
+
+.separadorcont01{
+    margin: 25px auto;
+    width: 60px;
+    color: rgb(0, 0, 0);
+    border-color: rgb(0, 0, 0);
+    background-color: rgb(0, 0, 0);
+}
+
+.cont p{
+    padding: 0px 40px;
+}

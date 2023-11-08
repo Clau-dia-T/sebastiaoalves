@@ -1,0 +1,132 @@
+body{
+    margin: auto;
+    text-align: center;
+    background-color: rgb(189, 189, 189);
+}
+
+.caixa{
+    background-color: rgba(255, 255, 255, 0.5);
+    margin: auto;
+    margin-top: 30px;
+    width: 80vw;
+    padding: 15px 0px;
+    box-shadow: -3px 5px 10px rgba(0, 0, 0, 20%);
+    padding: 30px;
+}
+
+input{
+    text-align: center;
+}
+
+.medio{
+    width: 200px;
+}
+
+.largo{
+    width: 90%;
+}
+
+input[type=submit], .botao{
+    border: none;
+    background-color: rgb(92, 92, 92);
+    color: white !important;
+    padding: 5px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover, button:hover{
+    background-color: rgb(180, 125, 51);
+}
+
+nav{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    padding: 10px;
+    box-shadow: 0px 10px 10px -10px rgba(0, 0, 0, 30%);
+}
+
+a{
+    color: white !important;
+    background-color: rgb(77, 77, 77);
+    padding: 5px 10px;
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: rgb(180, 125, 51);
+    cursor: pointer;
+}
+
+p{
+    text-align: justify;
+    padding: 10px 50px;
+}
+
+.pcentrado{
+    text-align: center;
+}
+
+footer{
+    width: 100%;
+    position: static;
+    bottom: 0px;
+}
+
+footer p{
+    text-align: center;
+}
+
+.errologin{
+    color: rgb(141, 11, 11) !important;
+    font-weight: bold !important;
+}
+
+.validadologin{
+    color: rgb(11, 141, 102) !important;
+    font-weight: bold !important;
+}
+
+table{
+    margin: 15px auto;
+    width: 90%;
+}
+
+table, tr, th, td{
+    border: 2px solid rgb(77, 77, 77);
+    border-collapse: collapse;
+}
+
+th{
+    background-color: rgb(180, 125, 51);
+}
+
+th, td{
+    padding: 3px 10px;
+}
+
+td img{
+    height: 150px;
+}
+
+.sim{
+    background-color: rgb(11, 141, 102);
+}
+
+.sim:hover{
+    background-color: rgb(28, 241, 177);
+}
+
+.nao{
+    padding: 0px;
+}
+
+.nao button{
+    background-color: rgb(141, 11, 11);
+    padding: 4px;
+}
+
+.nao button:hover{
+    background-color: rgb(206, 21, 21);
+}
